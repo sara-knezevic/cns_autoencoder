@@ -1,0 +1,13 @@
+**/__pycache__/
+data/
+models/
+plots/
+best/
+*/*.json
+*.json
+*.csv
+*/*.csv
+.DS_Store
+*.ipynb_checkpoints/
+*.db
+results/
